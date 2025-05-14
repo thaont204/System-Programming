@@ -8,17 +8,17 @@ The course covers low-level programming concepts, data representation, x86 assem
 
 ## 📚 Lectures
 
-The `Lectures/` folder includes theory and summaries for the following topics:
+The `Lectures/` folder contains theoretical materials and topic summaries covering:
 
-1. Bit-level data representation and bitwise operations  
-2. Arrays and data structures in C  
-3. Introduction to x86 Assembly  
-4. Procedures and function calls in C (viewed in assembly)  
-5. Memory hierarchy and cache organization  
-6. Linking and executable file structure  
-7. Introduction to reverse engineering and buffer overflow techniques
+- Bit-level data representation and bitwise operations  
+- Arrays and data structures in C  
+- Introduction to x86 Assembly language  
+- Procedures and function calls in C (examined at the assembly level)  
+- Memory hierarchy and cache organization  
+- Linking, loading, and executable file formats  
+- Fundamentals of reverse engineering and buffer overflow vulnerabilities  
 
-Materials have 2 version including Vietnamese and English
+Materials are available in both Vietnamese and English versions.
 
 ---
 
